@@ -2,7 +2,7 @@
 
 ## 软件下载地址
 
-#### 电脑系统应为macOS 10.13.0 及以上
+### 电脑系统应为macOS 10.13.0 及以上
 
 #### [软件下载地址](https://airnet.lanzous.com/iEroGo2ey1a)
 

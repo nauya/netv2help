@@ -1,6 +1,6 @@
 # Table of contents
 
-* [NETV2使用文档](README.md)
+* [DUKU使用文档](README.md)
 
 ## 安卓手机
 

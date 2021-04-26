@@ -38,6 +38,8 @@
 
 ![](../.gitbook/assets/image.png)
 
+
+
 ### 3.2.3 打开后会弹出对话框，把订阅地址复制到Url里面，Name随意填写。最后点击确定
 
 ![](../.gitbook/assets/xnip2021-02-28_17-14-36.png)

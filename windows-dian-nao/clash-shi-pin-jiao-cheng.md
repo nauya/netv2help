@@ -14,7 +14,5 @@
 
 ### 2. 视频教程（视频为安装版，最新提供的软件为绿色版解压即可使用）
 
-{% embed url="https://pan.ututools.com/onedrive/02\_%E5%BD%B1%E9%9F%B3%E5%9B%BE%E4%B9%A6/04\_NETV2%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B/%E5%AE%98%E7%BD%91Windows%20clash%E6%95%99%E7%A8%8B.mp4" %}
-
-
+{% embed url="https://pan.ututools.com/onedrive/02\_%E5%BD%B1%E9%9F%B3%E5%9B%BE%E4%B9%A6/04\_NETV2%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B/%E5%AE%98%E7%BD%91Windows%20clash%E6%95%99%E7%A8%8B.mp4" caption="" %}
 

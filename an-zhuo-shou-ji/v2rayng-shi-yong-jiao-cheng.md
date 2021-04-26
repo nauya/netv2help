@@ -22,7 +22,7 @@
 
 ![](../.gitbook/assets/screenshot_2021-04-15-10-21-28-453_com.v2ray.ang.jpg)
 
-### 4.在[官网](https://netv2.top/)主页点击一键订阅，复制订阅地址
+### 4.在[官网](https://dukufast.cyou/)主页点击一键订阅，复制订阅地址
 
 ![](../.gitbook/assets/screenshot_2021-04-15-10-53-24-132_com.android.chrome.jpg)
 

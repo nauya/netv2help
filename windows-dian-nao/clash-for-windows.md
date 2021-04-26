@@ -34,7 +34,7 @@ description: 推荐使用
 {% endtab %}
 
 {% tab title="手动导入" %}
-### 3.2.1  打开[官网](https://netv2.top/)内，查看我的订阅，点击一键订阅，复制订阅地址。
+### 3.2.1  打开[官网](https://dukufast.cyou/)内，查看我的订阅，点击一键订阅，复制订阅地址。
 
 ![](../.gitbook/assets/image-1-dd%20%281%29.png)
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [DUKU使用文档](README.md)
+* [NETV2使用文档](README.md)
 
 ## 安卓手机
 
@@ -26,6 +26,10 @@
 
 * [ClashX图文教程](ping-guo-dian-nao/clashx.md)
 * [ClashX视频教程](ping-guo-dian-nao/clashx-shi-pin-jiao-cheng.md)
+
+## Linux系统Ubuntu <a id="linux-xi-tong"></a>
+
+* [Trojan-QT5 使用教程](linux-xi-tong/trojanqt5-shi-yong-jiao-cheng.md)
 
 ---
 

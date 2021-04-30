@@ -8,9 +8,13 @@ description: 推荐使用
 
 ### 电脑系统应为Windows 7及以上（如果不知道自己电脑是64位还是32位，请下载64，如果不能用请下载32）
 
-#### [64位电脑下载地址](https://airnet.lanzous.com/iPQHOjuqm9g)
+#### [64位电脑下载地址](https://airnet.lanzous.com/iPQHOjuqm9g)1
 
-#### [32位电脑下载地址](https://airnet.lanzous.com/i7Ik8juqmif)
+#### [64位电脑下载地址2](https://pan.ututools.com/onedrive/01_%E8%BD%AF%E4%BB%B6/07_%E9%AD%94%E6%B3%95%E4%B8%8A%E7%BD%91/CLASH/Clash.for.Windows-0.13.8-64%E4%BD%8D-win.7z)
+
+#### [32位电脑下载地址](https://airnet.lanzous.com/i7Ik8juqmif)1
+
+#### [32位电脑下载地址2](https://pan.ututools.com/onedrive/01_%E8%BD%AF%E4%BB%B6/07_%E9%AD%94%E6%B3%95%E4%B8%8A%E7%BD%91/CLASH/Clash.for.Windows-0.13.7-32%E4%BD%8D-win.7z)
 
 ## Clash软件图文教程
 
@@ -24,7 +28,7 @@ description: 推荐使用
 
 {% tabs %}
 {% tab title="一键导入" %}
-### 3.1.1  打开[官网](https://dukufast.cyou/)内，查看我的订阅，点击一键订阅，导入到clash（请使用电脑的浏览器，比如Chrome，QQ浏览器等等，电脑微信客户端内置的浏览器无法自动跳转导入）
+### 3.1.1  打开[官网](https://netv2.top/)内，查看我的订阅，点击一键订阅，导入到clash（请使用电脑的浏览器，比如Chrome，QQ浏览器等等，电脑微信客户端内置的浏览器无法自动跳转导入）
 
 ![](../.gitbook/assets/aiiu8p%20%281%29.png)
 
@@ -34,9 +38,9 @@ description: 推荐使用
 {% endtab %}
 
 {% tab title="手动导入" %}
-### 3.2.1  打开[官网](https://dukufast.cyou/)内，查看我的订阅，点击一键订阅，复制订阅地址。
+### 3.2.1  打开[官网](https://netv2.top/)内，查看我的订阅，点击一键订阅，复制订阅地址。
 
-![](../.gitbook/assets/image-1-dd%20%281%29.png)
+![](../.gitbook/assets/image-1-dd.png)
 
 ### 3.2.2 然后粘贴到配置页面最上面的文本框里，点击下载。导入后。会显示绿色的成功，然后鼠标点击一下新出现的配置文件，选中后会变成深色，未选中是浅色
 

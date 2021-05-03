@@ -30,7 +30,7 @@ Tr998877
 {% tab title="IOS14系统 视频教程" %}
 ### IOS14系统 安装视频教程（视频有语音讲解）
 
-{% embed url="https://pan.ututools.com/onedrive/02\_影音图书/04\_NETV2视频教程/IOS14下载小火箭教程.mp4" %}
+{% embed url="https://pan.ututools.com/onedrive/02\_%E5%BD%B1%E9%9F%B3%E5%9B%BE%E4%B9%A6/04\_NETV2%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B/NETV2IOS14.mp4" %}
 {% endtab %}
 
 {% tab title="IOS13系统 视频教程" %}

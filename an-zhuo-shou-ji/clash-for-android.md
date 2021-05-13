@@ -6,11 +6,11 @@ description: Clash for Android
 
 ## 软件下载地址
 
-#### 系统应为安卓7.0以上（版本1用不了请用版本2，如果安装有问题请联系客服解决）
+### 系统应为安卓7.0以上（版本1用不了请用版本2，如果安装有问题请联系客服解决）
 
-#### [版本1下载](https://airnet.lanzous.com/igLHHo4uy6d)
+### [版本1下载](https://pan.ututools.com/onedrive/01_%E8%BD%AF%E4%BB%B6/07_%E9%AD%94%E6%B3%95%E4%B8%8A%E7%BD%91/CLASH/app-arm64-v8a-release%20%28v2.3.21%29.apk)
 
-#### [版本2下载](https://airnet.lanzous.com/iacGho4uxvc)
+### [版本2下载](https://pan.ututools.com/onedrive/01_%E8%BD%AF%E4%BB%B6/07_%E9%AD%94%E6%B3%95%E4%B8%8A%E7%BD%91/CLASH/app-armeabi-v7a-release%20%28v2.3.21%29.apk)
 
 ## Clash软件图文教程
 
@@ -22,7 +22,9 @@ description: Clash for Android
 
 {% tabs %}
 {% tab title="一键导入" %}
-### 2.1.1 打开[官网](https://dukufast.cyou/)主页点击一键订阅（建议使用手机自带浏览器打开，QQ，微信，百度内无法自动跳转）
+### 2.1.1 打开[官网](https://netv2.top/)主页点击一键订阅（建议使用手机自带浏览器打开，QQ，微信，百度内无法自动跳转）
+
+
 
 ![&#x70B9;&#x51FB;&#x4E00;&#x952E;&#x8BA2;&#x9605;&#x5BFC;&#x5165;&#x5230;Clash For Android](../.gitbook/assets/clash2.png)
 
@@ -32,7 +34,7 @@ description: Clash for Android
 {% endtab %}
 
 {% tab title="手动导入" %}
-### 2.2.1 打开[官网](https://dukufast.cyou/)主页点击一键订阅，复制订阅地址，
+### 2.2.1 打开[官网](https://netv2.top/)主页点击一键订阅，复制订阅地址，
 
 ![](../.gitbook/assets/img_20210422_182613.jpg)
 

@@ -8,7 +8,7 @@ description: 优先推荐使用clash
 
 #### 系统应为安卓7.0以上（部分安卓机型闪退，请使用Clash）
 
-#### [下载软件](https://airnet.lanzous.com/iPcIOnsimbc)
+#### [下载软件](https://pan.ututools.com/onedrive/01_%E8%BD%AF%E4%BB%B6/07_%E9%AD%94%E6%B3%95%E4%B8%8A%E7%BD%91/%E6%B0%B4%E6%BB%B4/PharosPro155.apk)
 
 ## Pharos Pro图文教程
 

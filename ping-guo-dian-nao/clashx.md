@@ -2,9 +2,9 @@
 
 ## 软件下载地址
 
-### 电脑系统应为macOS 10.13.0 及以上
+#### 电脑系统应为macOS 10.13.0 及以上
 
-#### [软件下载地址](https://airnet.lanzous.com/iEroGo2ey1a)
+#### [软件下载地址](https://pan.ututools.com/onedrive/01_%E8%BD%AF%E4%BB%B6/07_%E9%AD%94%E6%B3%95%E4%B8%8A%E7%BD%91/CLASH/ClashX%20%28pro%29.dmg)
 
 ## ClashX 软件图文教程
 
@@ -20,7 +20,7 @@
 
 {% tabs %}
 {% tab title="一键导入" %}
-### 3.1.1 打开[官网](https://dukufast.cyou/)， 一键导入方法，点击一键订阅，导入到clashX
+### 3.1.1 打开[官网](https://netv2.top/)， 一键导入方法，点击一键订阅，导入到clashX
 
 ![](../.gitbook/assets/aiiu8p.png)
 
@@ -30,13 +30,15 @@
 {% endtab %}
 
 {% tab title="手动导入" %}
-### 3.2.1 打开[官网](https://dukufast.cyou/)，点击一键订阅，复制订阅地址。
+### 3.2.1 手动导入方法，点击一键订阅，复制订阅地址。
 
 ![](../.gitbook/assets/image-1-dd.png)
 
 ### 3.2.2 然后点击电脑右上角的小猫咪图标，选择配置，托管配置，管理。
 
 ![](../.gitbook/assets/image.png)
+
+
 
 ### 3.2.3 打开后会弹出对话框，把订阅地址复制到Url里面，Name随意填写。最后点击确定
 

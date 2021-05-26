@@ -1,4 +1,4 @@
-# Trojan-QT5 使用教程
+# Linux Trojan-QT5 使用教程
 
 ## 软件下载地址
 

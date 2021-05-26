@@ -2,7 +2,7 @@
 description: 优先推荐使用clash
 ---
 
-# Pharos Pro图文教程
+# 安卓Pharos Pro图文教程
 
 ## 软件下载地址
 

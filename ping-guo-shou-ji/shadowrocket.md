@@ -1,4 +1,4 @@
-# Shadowrocket小火箭图文教程
+# 苹果Shadowrocket小火箭图文教程
 
 ## 下载软件教程
 

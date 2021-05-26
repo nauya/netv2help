@@ -2,7 +2,7 @@
 description: Clash for Android
 ---
 
-# Clash图文教程
+# 安卓Clash图文教程
 
 ## 软件下载地址
 

@@ -2,7 +2,7 @@
 description: Clash X Pro
 ---
 
-# ClashX视频教程
+# 苹果电脑ClashX视频教程
 
 ## 软件下载地址
 

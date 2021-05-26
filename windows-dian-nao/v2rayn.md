@@ -2,7 +2,7 @@
 description: 优先推荐使用clash软件
 ---
 
-# V2rayN图文教程
+# 电脑V2rayN图文教程
 
 ## 软件下载地址
 
@@ -20,7 +20,7 @@ description: 优先推荐使用clash软件
 
 ![](../.gitbook/assets/image-1-.jpg)
 
-### 3. 打开[官网](https://dukufast.cyou/)内，查看我的订阅，点击一键订阅，复制订阅地址
+### 3. 打开[官网](https://netv2.top/)内，查看我的订阅，点击一键订阅，复制订阅地址
 
 ![](../.gitbook/assets/image-1-dd.png)
 

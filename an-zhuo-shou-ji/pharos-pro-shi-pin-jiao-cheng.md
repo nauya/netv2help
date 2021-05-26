@@ -1,4 +1,4 @@
-# Pharos Pro视频教程
+# 安卓Pharos Pro视频教程
 
 ## 软件下载地址
 

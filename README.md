@@ -9,7 +9,7 @@ description: '官网https://netv2.top'
 ### 教程页面内有软件下载地址
 
 {% tabs %}
-{% tab title="安卓" %}
+{% tab title="Android" %}
 ### 安卓手机推荐clash，如果使用途中有问题可以尝试其他版本
 
 {% page-ref page="an-zhuo-shou-ji/clash-for-android.md" %}
@@ -25,7 +25,7 @@ description: '官网https://netv2.top'
 {% page-ref page="an-zhuo-shou-ji/pharos-pro-shi-pin-jiao-cheng.md" %}
 {% endtab %}
 
-{% tab title="苹果" %}
+{% tab title="IOS" %}
 {% page-ref page="ping-guo-shou-ji/shadowrocket.md" %}
 
 {% page-ref page="ping-guo-shou-ji/shadowrocket-xiao-huo-jian-shi-pin-jiao-cheng.md" %}

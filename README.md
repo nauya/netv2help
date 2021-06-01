@@ -4,10 +4,14 @@ description: '官网https://netv2.top'
 
 # NETV2使用文档
 
+## 请根据自己的机型系统在下面选择相应的教程
 
+### 教程页面内有软件下载地址
 
 {% tabs %}
 {% tab title="安卓手机教程" %}
+### 安卓手机推荐clash，如果使用途中有问题可以尝试其他版本
+
 {% page-ref page="an-zhuo-shou-ji/clash-for-android.md" %}
 
 {% page-ref page="an-zhuo-shou-ji/clash-shi-pin-jiao-cheng.md" %}

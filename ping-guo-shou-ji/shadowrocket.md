@@ -37,6 +37,10 @@ Tr998877
 然后翻到最下面点击退出登录，然后登录文中的美区ID。
 
 ![](../.gitbook/assets/app-store-2.jpg)
+
+登录时会提示升级账户安全，请选择其他选项，然后不升级
+
+![](../.gitbook/assets/app-store-3.jpg)
 {% endtab %}
 
 {% tab title="IOS13系统" %}

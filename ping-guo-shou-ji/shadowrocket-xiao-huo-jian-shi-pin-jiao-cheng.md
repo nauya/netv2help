@@ -36,7 +36,7 @@ Tr998877
 {% tab title="IOS13系统 视频教程" %}
 ### IOS13系统 安装视频教程（视频有语音讲解）
 
-{% embed url="https://pan.ututools.com/onedrive/02\_%E5%BD%B1%E9%9F%B3%E5%9B%BE%E4%B9%A6/04\_NETV2%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B/IOS13%E5%B0%8F%E7%81%AB%E7%AE%AD%E4%B8%8B%E8%BD%BD%E6%95%99%E7%A8%8B.mp4" %}
+{% embed url="https://pan.ututools.com/onedrive/02\_%E5%BD%B1%E9%9F%B3%E5%9B%BE%E4%B9%A6/04\_NETV2%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B/NETV2IOS13.mp4" %}
 {% endtab %}
 {% endtabs %}
 

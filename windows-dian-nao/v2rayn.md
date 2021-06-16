@@ -8,7 +8,9 @@ description: 优先推荐使用clash软件
 
 #### 电脑系统应为Windows 7及以上
 
-#### [软件下载地址](https://airnet.lanzoui.com/iCjN2j4le4h)
+> [下载地址1](https://airnet.lanzoui.com/iCjN2j4le4h)
+>
+> [下载地址2](https://airnet.lanzoui.com/iCjN2j4le4h)
 
 ## V2rayN软件图文教程
 

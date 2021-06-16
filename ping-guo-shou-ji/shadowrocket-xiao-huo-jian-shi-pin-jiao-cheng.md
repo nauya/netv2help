@@ -44,7 +44,7 @@ Dd667788
 
 ### 软件使用视频教程（视频有语音讲解）
 
-{% embed url="https://pan.ututools.com/onedrive/02\_%E5%BD%B1%E9%9F%B3%E5%9B%BE%E4%B9%A6/04\_NETV2%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B/%E5%AE%98%E7%BD%91%E5%B0%8F%E7%81%AB%E7%AE%AD%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.mp4" %}
+{% embed url="https://pan.ututools.com/onedrive/04\_NETV2/shadowrocket.mp4" %}
 
 
 

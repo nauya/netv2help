@@ -12,7 +12,7 @@ description: Clash X Pro
 
 ## ClashX 软件视频教程
 
-{% embed url="https://pan.ututools.com/onedrive/02\_%E5%BD%B1%E9%9F%B3%E5%9B%BE%E4%B9%A6/04\_NETV2%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B/%E5%AE%98%E7%BD%91mac%20clash%E6%95%99%E7%A8%8B.mp4" %}
+{% embed url="https://pan.ututools.com/onedrive/04\_NETV2/clashx.mp4" %}
 
 
 

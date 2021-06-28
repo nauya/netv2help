@@ -12,8 +12,6 @@ description: 优先推荐使用clash软件
 windows 7 系统需要提前安装好[Microsoft .NET Framework 4.6.2](https://www.microsoft.com/en-us/download/details.aspx?id=53344)
 {% endhint %}
 
->
-
 > [下载地址1](https://airnet.lanzoui.com/iCjN2j4le4h)
 >
 > [下载地址2](https://airnet.lanzoui.com/iCjN2j4le4h)

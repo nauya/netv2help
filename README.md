@@ -5,7 +5,11 @@ description: '官网https://netv2.top'
 # NETV2使用文档
 
 {% hint style="info" %}
-客服QQ2175944130号码被封请加QQ2818854179
+客服QQ2175944130号码被封
+
+请加QQ2818854179
+
+或者微信netv22
 {% endhint %}
 
 ## 请根据自己的机型系统在下面选择相应的教程

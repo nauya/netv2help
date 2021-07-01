@@ -64,7 +64,13 @@ Dd667788
 
 {% tabs %}
 {% tab title="一键导入订阅" %}
-### 2.1.1 请用Safari浏览器打开[官网](https://netv2.top/)（不要在QQ内，微信内，百度内打开否则无法跳转），点击一键订阅，导入到shadowrocket。
+### 2.1.1 打开Safari浏览器输入官网地址：[netv2.top](https://netv2.top/) 点击一键订阅，导入到shadowrocket。
+
+{% hint style="info" %}
+注意：请使用Safari浏览器，不要在QQ内，微信内，百度内打开否则无法跳转，
+{% endhint %}
+
+### 
 
 ![&#x53EF;&#x4EE5;&#x81EA;&#x52A8;&#x5BFC;&#x5165;&#x4E5F;&#x53EF;&#x4EE5;&#x624B;&#x52A8;&#x5BFC;&#x5165;](../.gitbook/assets/img_39616078e7ce-1.jpeg)
 
@@ -74,7 +80,7 @@ Dd667788
 {% endtab %}
 
 {% tab title="手动导入订阅" %}
-### 2.2.1 如果需要手动导入，请用Safari浏览器打开[官网](https://netv2.top/)，点击一键订阅复制订阅地址。
+### 2.2.1 打开Safari浏览器输入官网地址：[netv2.top](https://netv2.top/) 点击一键订阅，复制订阅地址
 
 ![](../.gitbook/assets/img_39616078e7ce-1.jpeg)
 

@@ -22,7 +22,7 @@
 
 ![](../.gitbook/assets/screenshot_2021-04-15-10-21-28-453_com.v2ray.ang.jpg)
 
-### 4.在[官网](https://netv2.top/)主页点击一键订阅，复制订阅地址
+### 4. 打开Safari浏览器输入官网地址：[netv2.top](https://netv2.top/) 登录后点击一键订阅，复制订阅地址 <a id="2-2-1-da-kai-safari-liu-lan-qi-shu-ru-guan-wang-di-zhi-netv-2-top-dian-ji-yi-jian-ding-yue-fu-zhi-ding-yue-di-zhi"></a>
 
 ![](../.gitbook/assets/screenshot_2021-04-15-10-53-24-132_com.android.chrome.jpg)
 

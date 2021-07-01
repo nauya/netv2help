@@ -35,8 +35,8 @@ https://twitter.com/netv2top
 ```
 {% endtab %}
 
-{% tab title="instagram" %}
-
+{% tab title="telegram电报" %}
+{% embed url="https://t.me/joinchat/sZ8Dm\_bQeGQzMGVl" %}
 {% endtab %}
 {% endtabs %}
 

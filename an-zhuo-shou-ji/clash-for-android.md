@@ -32,9 +32,11 @@ description: Clash for Android
 
 {% tabs %}
 {% tab title="一键导入" %}
-### 2.1.1 打开[官网](https://netv2.top/)主页点击一键订阅（建议使用手机自带浏览器打开，QQ，微信，百度内无法自动跳转）
+### 2.1.1 打开浏览器输入官网地址：[netv2.top](https://netv2.top/) 点击一键订阅，导入到clash for Android。
 
-
+{% hint style="info" %}
+注意：推荐使用自带浏览器，不要在QQ内，微信内，百度内打开否则无法跳转，
+{% endhint %}
 
 ![&#x70B9;&#x51FB;&#x4E00;&#x952E;&#x8BA2;&#x9605;&#x5BFC;&#x5165;&#x5230;Clash For Android](../.gitbook/assets/clash2.png)
 

@@ -80,7 +80,7 @@ Dd667788
 {% endtab %}
 
 {% tab title="手动导入订阅" %}
-### 2.2.1 打开Safari浏览器输入官网地址：[netv2.top](https://netv2.top/) 点击一键订阅，复制订阅地址
+### 2.2.1 打开Safari浏览器输入官网地址：netv2.top 登录后点击一键订阅，复制订阅地址
 
 ![](../.gitbook/assets/img_39616078e7ce-1.jpeg)
 

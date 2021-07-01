@@ -27,16 +27,6 @@ https://weibo.com/netv2
 ```
 {% endtab %}
 
-{% tab title="小红书" %}
-
-
-```text
-https://twitter.com/netv2top
-```
-
-{% embed url="https://t.me/joinchat/sZ8Dm\_bQeGQzMGVl" %}
-{% endtab %}
-
 {% tab title="推特" %}
 {% embed url="https://twitter.com/netv2top" %}
 {% endtab %}

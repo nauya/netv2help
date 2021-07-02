@@ -22,7 +22,7 @@
 
 {% tabs %}
 {% tab title="一键导入" %}
-### 3.1.1 打开[官网](https://netv2.top/)， 一键导入方法，点击一键订阅，导入到clashX
+### 3.1.1 打开浏览器输入官网地址：[https://netv2.top](https://netv2.top) 登录后点击一键订阅，导入到clashx
 
 ![](../.gitbook/assets/aiiu8p.png)
 
@@ -32,7 +32,7 @@
 {% endtab %}
 
 {% tab title="手动导入" %}
-### 3.2.1 手动导入方法，点击一键订阅，复制订阅地址。
+### 3.2.1 打开浏览器输入官网地址：[https://netv2.top](https://netv2.top) 登录后点击一键订阅，复制订阅地址
 
 ![](../.gitbook/assets/image-1-dd.png)
 

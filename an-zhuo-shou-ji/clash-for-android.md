@@ -46,7 +46,7 @@ description: Clash for Android
 {% endtab %}
 
 {% tab title="手动导入" %}
-### 2.2.1 打开浏览器输入官网地址：[netv2.top ](https://netv2.top/)登录后点击一键订阅，复制订阅地址 <a id="2-2-1-da-kai-safari-liu-lan-qi-shu-ru-guan-wang-di-zhi-netv-2-top-dian-ji-yi-jian-ding-yue-fu-zhi-ding-yue-di-zhi"></a>
+### 2.2.1 打开浏览器输入官网地址：[https://netv2.top](https://netv2.top) 登录后点击一键订阅，复制订阅地址 <a id="2-2-1-da-kai-safari-liu-lan-qi-shu-ru-guan-wang-di-zhi-netv-2-top-dian-ji-yi-jian-ding-yue-fu-zhi-ding-yue-di-zhi"></a>
 
 ![](../.gitbook/assets/img_20210422_182613.jpg)
 

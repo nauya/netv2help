@@ -28,7 +28,7 @@ dcb0628a-9b87-4184-a8e9-de2272b68129
 
 ![](../.gitbook/assets/p2.png)
 
-### **3.**打开浏览器输入官网地址：netv2.top 登录后点击一键订阅，复制订阅地址
+### 3.打开浏览器输入官网地址：[https://netv2.top](https://netv2.top) 登录后点击一键订阅，复制订阅地址
 
 ![](../.gitbook/assets/screenshot_2021-04-15-10-53-24-132_com.android.chrome.jpg)
 

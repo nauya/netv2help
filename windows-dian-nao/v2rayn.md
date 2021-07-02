@@ -26,7 +26,7 @@ windows 7 系统需要提前安装好[Microsoft .NET Framework 4.6.2](https://ww
 
 ![](../.gitbook/assets/image-1-.jpg)
 
-### 3. 打开[官网](https://netv2.top/)内，查看我的订阅，点击一键订阅，复制订阅地址
+### 3. 打开浏览器输入官网地址：[https://netv2.top](https://netv2.top) 登录后点击一键订阅，复制订阅地址
 
 ![](../.gitbook/assets/image-1-dd.png)
 

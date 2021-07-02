@@ -34,7 +34,11 @@ description: 推荐使用
 
 {% tabs %}
 {% tab title="一键导入" %}
-### 3.1.1  打开[官网](https://netv2.top/)内，查看我的订阅，点击一键订阅，导入到clash（请使用电脑的浏览器，比如Chrome，QQ浏览器等等，电脑微信客户端内置的浏览器无法自动跳转导入）
+### 3.1.1  打开浏览器输入官网地址：[https://netv2.top](https://netv2.top) 登录后点击一键订阅，复制订阅地址
+
+{% hint style="info" %}
+注意：请使用电脑的浏览器，比如Chrome，QQ浏览器等等，电脑微信客户端内置的浏览器无法自动跳转导入）
+{% endhint %}
 
 ![](../.gitbook/assets/aiiu8p%20%281%29.png)
 

@@ -54,6 +54,14 @@ telegram 群组
 netv2top
 ```
 {% endtab %}
+
+{% tab title="instagram" %}
+instagram号
+
+```text
+netv2top
+```
+{% endtab %}
 {% endtabs %}
 
 

@@ -34,6 +34,12 @@ https://weibo.com/netv2
 {% tab title="telegram电报" %}
 {% embed url="https://t.me/joinchat/sZ8Dm\_bQeGQzMGVl" %}
 {% endtab %}
+
+{% tab title="小红书" %}
+```text
+小红书号netv2top
+```
+{% endtab %}
 {% endtabs %}
 
 

@@ -10,7 +10,7 @@ description: Clash X Pro
 
 > [下载地址1](https://pan.ututools.com/onedrive/01_%E8%BD%AF%E4%BB%B6/07_%E9%AD%94%E6%B3%95%E4%B8%8A%E7%BD%91/CLASH/ClashX%20%28pro%29.dmg)
 >
-> [下载地址2](https://airnet.lanzoui.com/ixbxYq8k1za)
+> [下载地址2](https://airnet.lanzoui.com/irt92q8ke8b)
 
 ## ClashX 软件视频教程
 

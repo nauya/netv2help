@@ -14,11 +14,23 @@
 
 规则地址：[https://pan.ututools.com/onedrive/03\_%E8%B5%84%E6%96%99/netv2.top.conf](https://pan.ututools.com/onedrive/03_%E8%B5%84%E6%96%99/netv2.top.conf)
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 ### 使用方法
 
-1. 打开shadowrocket，点击配置
-2. 点击左上角扫码，扫描上方二维码
-3. 扫描后在下方远程文件会显示出新的配置文件，然后点击选择使用配置
+{% tabs %}
+{% tab title="扫码添加" %}
+打开shadowrocket，点击配置，点击左上角扫码，扫描上方二维码
+
+![](../.gitbook/assets/image%20%287%29.png)
+
+扫描后在下方远程文件会显示出新的配置文件，然后点击选择使用配置
+
+![](../.gitbook/assets/image%20%286%29.png)
+{% endtab %}
+
+{% tab title="链接添加" %}
+
+{% endtab %}
+{% endtabs %}
 

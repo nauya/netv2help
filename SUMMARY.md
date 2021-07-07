@@ -16,6 +16,7 @@
 
 * [苹果Shadowrocket小火箭图文教程](ping-guo-shou-ji/shadowrocket.md)
 * [苹果Shadowrocket小火箭视频教程](ping-guo-shou-ji/shadowrocket-xiao-huo-jian-shi-pin-jiao-cheng.md)
+* [Shadowrocket路由规则](ping-guo-shou-ji/shadowrocket-lu-you-gui-ze.md)
 
 ## Windows电脑
 

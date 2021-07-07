@@ -14,7 +14,7 @@
 
 规则地址：[https://pan.ututools.com/onedrive/03\_%E8%B5%84%E6%96%99/netv2.top.conf](https://pan.ututools.com/onedrive/03_%E8%B5%84%E6%96%99/netv2.top.conf)
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 ### 使用方法
 
@@ -22,15 +22,51 @@
 {% tab title="扫码添加" %}
 打开shadowrocket，点击配置，点击左上角扫码，扫描上方二维码
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 扫描后在下方远程文件会显示出新的配置文件，然后点击选择使用配置
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 {% endtab %}
 
 {% tab title="链接添加" %}
 
 {% endtab %}
 {% endtabs %}
+
+### 添加与更改路由规则
+
+{% tabs %}
+{% tab title="添加规则" %}
+点击本地规则文件，编辑配置。
+
+![](../.gitbook/assets/image%20%2812%29.png)
+
+添加规则
+{% endtab %}
+
+{% tab title="修改规则" %}
+
+
+点击本地规则文件，编辑配置。
+
+![](../.gitbook/assets/image%20%2812%29.png)
+
+点击规则，搜索youku\(这里拿优酷举例\)
+
+![](../.gitbook/assets/image%20%2813%29.png)
+
+点击youku.com 
+
+![](../.gitbook/assets/image%20%286%29.png)
+
+这里看到选项是DICECT就是直连的意思，表示youku.com是不通过代理的，如果我们想改成直连可以吧选项更改成PROXY（PROXY意思是代理）
+
+![](../.gitbook/assets/image%20%2810%29.png)
+
+返回后重新启动shadowrocket规则就生效了。
+{% endtab %}
+{% endtabs %}
+
+
 

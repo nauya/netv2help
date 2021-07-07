@@ -32,8 +32,9 @@
 
 * [Linux Trojan-QT5 使用教程](linux-xi-tong/trojanqt5-shi-yong-jiao-cheng.md)
 
+## 网关模式
+
 ---
 
-* [其他帮助](bang-zhu/README.md)
-  * [问题故障](bang-zhu/wen-ti-gu-zhang-pai-chu-hui-zong.md)
+* [Switch 游戏机](switch-you-xi-ji.md)
 

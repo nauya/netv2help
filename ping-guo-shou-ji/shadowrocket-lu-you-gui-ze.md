@@ -42,7 +42,11 @@
 
 ![](../.gitbook/assets/image%20%2812%29.png)
 
-添加规则未完待续
+进入编辑配置后，打开添加规则
+
+![](../.gitbook/assets/image%20%2814%29.png)
+
+在此处添加规则即可。具体类型和选项的说明可以看本tab的第三项和第四项说明
 {% endtab %}
 
 {% tab title="修改规则" %}
@@ -66,7 +70,35 @@
 
 返回后重新启动shadowrocket规则就生效了。
 {% endtab %}
+
+{% tab title="规则类型说明" %}
+![](../.gitbook/assets/image%20%2816%29.png)
+
+DOMAIN-SUFFIX意思是包含所有子域名
+
+举例输入baidu.com就包含1.baidu.com，2.baidu.com，\*\*\*.baidu.com
+
+DOMAIN-KEYWORD意思是包含域名的关键词，
+
+举例输入baidu 就包含所有baidu这个单词的域名，baidu.com，baidu.xixihaha.com
+
+DOMAIN就是只有当前域名，输入说明域名就是什么不包含其他。
+
+其他暂时不做介绍。很少用到。
+{% endtab %}
+
+{% tab title="规则选项说明" %}
+![](../.gitbook/assets/image%20%2815%29.png)
+
+PROXY表示代理，
+
+DIRECT表示直连。
+
+举例如果添加了域名后，选项选择PROXY就代表这个域名通过shadowrocket流量走代理
+
+如果添加域名后，选项选择DIRECT就代表这个域名不通过shadowrocket流量，走直连不挂代理。
+
+REJECT代表此域名返回404，可以通过添加广告域名，来屏蔽广告。
+{% endtab %}
 {% endtabs %}
-
-
 

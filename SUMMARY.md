@@ -12,6 +12,7 @@
 * [安卓Pharos Pro图文教程](an-zhuo-shou-ji/pharos-pro.md)
 * [安卓Pharos Pro视频教程](an-zhuo-shou-ji/pharos-pro-shi-pin-jiao-cheng.md)
 * [安卓安装谷歌套件](an-zhuo-shou-ji/an-zhuo-an-zhuang-gu-ge-tao-jian.md)
+* [安卓部分国外APP下载](an-zhuo-shou-ji/an-zhuo-bu-fen-guo-wai-app-xia-zai.md)
 
 ## 苹果手机
 

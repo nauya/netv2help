@@ -5,8 +5,8 @@
 
 ## 安卓手机
 
-* [安卓Clash图文教程](an-zhuo-shou-ji/clash-for-android.md)
 * [安卓Clash视频教程](an-zhuo-shou-ji/clash-shi-pin-jiao-cheng.md)
+* [安卓Clash图文教程](an-zhuo-shou-ji/clash-for-android.md)
 * [安卓V2rayNG 图文教程](an-zhuo-shou-ji/v2rayng-shi-yong-jiao-cheng.md)
 * [安卓V2rayNG视频教程](an-zhuo-shou-ji/v2rayng-shi-pin-jiao-cheng.md)
 * [安卓Pharos Pro图文教程](an-zhuo-shou-ji/pharos-pro.md)
